@@ -1,0 +1,13 @@
+.container{
+    display: "flex";
+}
+
+.container div{
+
+    align-items: "center";
+    justify-content: "center";
+}
+
+h1{
+    color: #FF0000;
+}
